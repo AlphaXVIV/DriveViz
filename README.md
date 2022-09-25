@@ -1,8 +1,9 @@
-# TMViz
+# DriveViz
 
-> Web-based controller visualisation widget for TrackMania.
+> A fork of TMViz: for web-based controller visualisation widget for any driving game.
 
-**TMViz** is a lightweight, web-based controller visualisation widget for streaming apps like [OBS](https://obsproject.com/) or [XSplit](https://www.xsplit.com/). It is primarily created for [TrackMania](https://trackmania.com/), but it can be easily reconfigured to work with other racing games.
+**DriveViz** is a lightweight, web-based controller visualisation widget for streaming apps like [OBS](https://obsproject.com/) or [XSplit](https://www.xsplit.com/). Originally made for [TrackMania](https://trackmania.com/), the layout has been changed to accomodate racing games with three pedals (clutch, brake, accelerate).
+
 
 ## Contributing
 
